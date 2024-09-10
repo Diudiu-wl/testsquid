@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/squidtest/static/css/main.5126e507.css",
+    "main.js": "/squidtest/static/js/main.18fa0455.js",
+    "index.html": "/squidtest/index.html",
+    "main.5126e507.css.map": "/squidtest/static/css/main.5126e507.css.map",
+    "main.18fa0455.js.map": "/squidtest/static/js/main.18fa0455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5126e507.css",
+    "static/js/main.18fa0455.js"
+  ]
+}
