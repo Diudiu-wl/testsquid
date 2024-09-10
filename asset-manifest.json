@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/squidtest/static/css/main.5126e507.css",
-    "main.js": "/squidtest/static/js/main.18fa0455.js",
-    "index.html": "/squidtest/index.html",
-    "main.5126e507.css.map": "/squidtest/static/css/main.5126e507.css.map",
-    "main.18fa0455.js.map": "/squidtest/static/js/main.18fa0455.js.map"
+    "main.css": "/testsquid/static/css/main.5126e507.css",
+    "main.js": "/testsquid/static/js/main.6f0a19d2.js",
+    "index.html": "/testsquid/index.html",
+    "main.5126e507.css.map": "/testsquid/static/css/main.5126e507.css.map",
+    "main.6f0a19d2.js.map": "/testsquid/static/js/main.6f0a19d2.js.map"
   },
   "entrypoints": [
     "static/css/main.5126e507.css",
-    "static/js/main.18fa0455.js"
+    "static/js/main.6f0a19d2.js"
   ]
 }
